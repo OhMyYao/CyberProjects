@@ -1,2 +1,4 @@
 # CyberProjects
-Some beginner Cyber Projects
+Welcome to my CyberProjects repository.
+Follow along as I start with some beginner Cyber Projects.
+
