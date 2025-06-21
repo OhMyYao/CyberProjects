@@ -8,3 +8,4 @@ List of items:
   - Password Manager
   - Port Scanner
   - Caesar Cipher encryption program
+  - WHOIS program
