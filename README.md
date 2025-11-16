@@ -10,3 +10,4 @@ List of items:
   - Caesar Cipher encryption program
   - WHOIS program
   - Packet Sniffer
+  - Telnet Hijack
